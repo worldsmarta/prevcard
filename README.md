@@ -1,3 +1,3 @@
 # previewcard
 
-github pages link:https://worldsmarta.github.io/previewcard/
+github pages link:https://worldsmarta.github.io/prevcard/
